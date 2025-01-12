@@ -3,6 +3,7 @@
 ---
 
 ![Group 20](https://github.com/user-attachments/assets/0ba94889-778c-43fb-ab02-1481aaa8980f)
+
 ---
 
 ### 🌟 About Me
@@ -10,7 +11,6 @@
   A DevOps trainee who’s living proof that chaos can be organized with the right tools.
 </p>
 <hr style="border-top: 2px solid #4CAF50; width: 80%; margin: 10px auto;" />
-
 ---
 
 ### 🛠️ Tools & Technologies
