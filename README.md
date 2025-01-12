@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="460" />
 
 <h3>👨🏻‍💻 About Me</h3>
-<p>A DevOps trainee who’s living proof that chaos can be organized with the right tools.</p>
+<p>A DevOps trainee who’s living proof that chaos can be organized with the right tools.</p> <br>
 
 
 
@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-</div>
+</div> <br>
 
 
 
