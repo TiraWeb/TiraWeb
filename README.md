@@ -1,4 +1,4 @@
-<h2 align="left">Hola 🐱! Just a student from Sri Lanka</h2>
+<h2 align="left">Hola 😃! Just a student from Sri Lanka</h2>
 
 
 ![Group 20](https://github.com/user-attachments/assets/0ba94889-778c-43fb-ab02-1481aaa8980f)
