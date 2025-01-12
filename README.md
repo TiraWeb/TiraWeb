@@ -41,6 +41,8 @@
 </div>
 
 ###
+###
+###
 
 <div align="center">
   <a href="tiranpankaja@gmail.com" target="_blank">
@@ -55,6 +57,8 @@
 </div>
 
 ###
+###
+###
 
 <br clear="both">
 
@@ -64,4 +68,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/TiraWeb/TiraWeb/output/github-snake.svg" />
 </picture>
 
+###
+###
 ###
