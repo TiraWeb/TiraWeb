@@ -2,10 +2,7 @@
 
 ---
 
-<div align="center">
-  <img height="300" src="https://s3-tiran-bucket-v2.s3.ap-southeast-1.amazonaws.com/Group+20.png" alt="Profile Banner" />
-</div>
-
+![Group 20](https://github.com/user-attachments/assets/0ba94889-778c-43fb-ab02-1481aaa8980f)
 ---
 
 ### 🌟 About Me
