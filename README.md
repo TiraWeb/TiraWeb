@@ -1,15 +1,9 @@
-<h2 align="left">Hola 😃! Just a student from Sri Lanka</h2>
+<h2> Hey there! I'm Tiran <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="30px"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="460" />
 
+<h3>👨🏻‍💻 About Me</h3>
+<p>A DevOps trainee who’s living proof that chaos can be organized with the right tools.</p>
 
-![Group 20](https://github.com/user-attachments/assets/0ba94889-778c-43fb-ab02-1481aaa8980f)
-
----
-
-### 🌟 About Me
-<p align="center" style="font-size: 1.2em; font-weight: bold; color: #4CAF50; letter-spacing: 1px;">
-  A DevOps trainee who’s living proof that chaos can be organized with the right tools.
-</p>
-<hr style="border-top: 2px solid #4CAF50; width: 80%; margin: 10px auto;" />
 ---
 
 ### 🛠️ Tools & Technologies
