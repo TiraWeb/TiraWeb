@@ -4,7 +4,7 @@
 <h3>👨🏻‍💻 About Me</h3>
 <p>A DevOps trainee who’s living proof that chaos can be organized with the right tools.</p>
 
----
+
 
 ### 🛠️ Tools & Technologies
 <div align="center">
@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
 </div>
 
----
+
 
 ### 📊 GitHub Stats
 <div align="center">
