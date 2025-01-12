@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Tiran <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="30px"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="460" />
-<br>
+
 <h3>👨🏻‍💻 About Me</h3>
 <p>A DevOps trainee who’s living proof that chaos can be organized with the right tools.</p> <br>
 
