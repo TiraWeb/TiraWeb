@@ -6,9 +6,10 @@
 ---
 
 ### 🌟 About Me
-<p align="center">
+<p align="center" style="font-size: 1.2em; font-weight: bold; color: #4CAF50; letter-spacing: 1px;">
   A DevOps trainee who’s living proof that chaos can be organized with the right tools.
 </p>
+<hr style="border-top: 2px solid #4CAF50; width: 80%; margin: 10px auto;" />
 
 ---
 
