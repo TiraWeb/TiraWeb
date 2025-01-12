@@ -12,13 +12,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TiraWeb&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak Stats" />
-</div>
-
----
-
 ### 🛠️ Tools & Technologies
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS logo" />
@@ -54,6 +47,13 @@
 
 ---
 
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=TiraWeb&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak Stats" />
+</div>
+
+---
+
 ### 📬 Connect With Me
 <div align="center">
   <a href="mailto:tiranpankaja@gmail.com" target="_blank">
@@ -69,14 +69,6 @@
 
 ---
 
-### 🐍 GitHub Activity Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiraWeb/TiraWeb/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TiraWeb/TiraWeb/output/github-snake.svg" />
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/TiraWeb/TiraWeb/output/github-snake.svg" />
-</picture>
-
----
 
 ### 💡 Final Note
 <p align="center">
