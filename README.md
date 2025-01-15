@@ -43,7 +43,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Streak Stats](https://streak-stats.demolab.com?user=TiraWeb&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)
+[![Tiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiraWeb&show_icons=true&theme=nord&hide_border=true&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
