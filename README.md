@@ -42,7 +42,7 @@
 
 
 ### 📊 GitHub Stats
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=TiraWeb&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak Stats" />
 </div>
 
