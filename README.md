@@ -6,8 +6,8 @@
 
 ### 👨‍💻 About Me
 
-DevOps Engineer intern at **Velaris**, running a multi-tenant AWS platform.
-Currently deep in **ECS capacity provider redesigns, cost optimizations and observability pipelines**.
+DevOps Engineer intern at **Velaris**, running a multi-tenant AWS platform. Currently deep in 
+**ECS capacity provider redesigns, cost optimizations and observability pipelines**.
 Also studying for the **AWS ML Associate / k8s CKA** certs and finishing a BSc in Computer Science.
 
 - 🔭 Currently building: additive CloudFormation capacity provider overhauls across ECS clusters
