@@ -2,31 +2,20 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Tiran+%F0%9F%91%8B;DevOps+Engineer+@+Velaris;AWS+%7C+ECS+%7C+Cost+Optimization;Automating+chaos+into+CloudFormation&font=Fira+Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&size=22">
 </h1>
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-<h3>👨‍💻 About Me</h3>
+### 👨‍💻 About Me
 
 DevOps Engineer intern at **Velaris**, running a multi-tenant AWS platform. Currently deep in
 **ECS capacity provider redesigns, cost optimizations and observability pipelines**.
 Also studying for the **AWS ML Associate / k8s CKA** certs and finishing a BSc in Computer Science.
 
 - 🔭 Currently building: additive CloudFormation capacity provider overhauls across ECS clusters
-- 💸 Recently shipped: cost-attribution tooling that surfaced 4-figure/month savings in Fargate + RDS
-- 🌱 Learning: ML on AWS, deeper KEDA/EKS autoscaling patterns
-- ⚡ Fun fact: I've debugged more `SelectionCriteria` and `FilterPattern` CloudFormation errors than I'd like to admit
+- 💸 Recently shipped: cost-attribution tooling that surfaced savings in EC2 + RDS
+- 🌱 Learning: ML on AWS, deeper ECS autoscaling patterns
+- ⚡ Fun fact: I've debugged more `FilterPattern` CloudFormation errors than I'd like to admit
 
-</td>
-<td width="40%" valign="top" align="center">
-
-<h3>&nbsp;</h3>
-
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" />
+</p>
 
 ---
 
