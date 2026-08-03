@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Tiran+%F0%9F%91%8B;DevOps+Engineer+@+Velaris;AWS+%7C+ECS+%7C+Cost+Optimization;Automating+chaos+into+CloudFormation&font=Fira+Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&size=22">
 </h1>
 
-<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380" />
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ### 👨‍💻 About Me
 
@@ -15,7 +17,14 @@ Also studying for the **AWS ML Associate / k8s CKA** certs and finishing a BSc i
 - 🌱 Learning: ML on AWS, deeper KEDA/EKS autoscaling patterns
 - ⚡ Fun fact: I've debugged more `SelectionCriteria` and `FilterPattern` CloudFormation errors than I'd like to admit
 
-<br clear="right"/>
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
