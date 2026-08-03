@@ -50,8 +50,8 @@ Also studying for the **AWS ML Engineer Associate** cert, and finishing a BSc in
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TiraWeb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiraWeb&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=TiraWeb&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TiraWeb&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
@@ -77,5 +77,5 @@ Also studying for the **AWS ML Engineer Associate** cert, and finishing a BSc in
 ---
 
 <p align="center">
-  <i>Not chasing green squares — my local + AWS console history tells the real story. Hit me up on LinkedIn!</i>
+  <i>Not chasing green squares — my local + AWS console history tells the real story. Hit me up on LinkedIn.</i>
 </p>
