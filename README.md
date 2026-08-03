@@ -6,12 +6,12 @@
 
 ### 👨‍💻 About Me
 
-DevOps Engineer intern at **Velaris**, running a multi-tenant AWS platform across dev/staging/prod.
-Currently deep in **ECS capacity provider redesigns, cost optimization, and observability pipelines**.
-Also studying for the **AWS ML Engineer Associate** cert, and finishing a BSc in Computer Science.
+DevOps Engineer intern at **Velaris**, running a multi-tenant AWS platform.
+Currently deep in **ECS capacity provider redesigns, cost optimizations and observability pipelines**.
+Also studying for the **AWS ML Associate / k8s CKA** certs and finishing a BSc in Computer Science.
 
 - 🔭 Currently building: additive CloudFormation capacity provider overhauls across ECS clusters
-- 💸 Recently shipped: cost-attribution tooling that surfaced 4-figure/month savings in Fargate + RDS
+- 💸 Recently shipped: cost-attribution tooling that surfaced savings in EC2 + RDS
 - 🌱 Learning: ML on AWS, deeper KEDA/EKS autoscaling patterns
 - ⚡ Fun fact: I've debugged more `SelectionCriteria` and `FilterPattern` CloudFormation errors than I'd like to admit
 
