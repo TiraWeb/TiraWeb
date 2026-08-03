@@ -77,5 +77,5 @@ Also studying for the **AWS ML Associate / k8s CKA** certs and finishing a BSc i
 ---
 
 <p align="center">
-  <i>Not chasing green squares — my local + AWS console history tells the real story. Hit me up on LinkedIn.</i>
+  Not chasing green squares 😁 my local + AWS console history tells the real story. Hit me up on LinkedIn!
 </p>
