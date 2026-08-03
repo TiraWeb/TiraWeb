@@ -6,7 +6,7 @@
 <tr>
 <td width="60%" valign="top">
 
-### 👨‍💻 About Me
+<h3>👨‍💻 About Me</h3>
 
 DevOps Engineer intern at **Velaris**, running a multi-tenant AWS platform. Currently deep in
 **ECS capacity provider redesigns, cost optimizations and observability pipelines**.
@@ -19,6 +19,8 @@ Also studying for the **AWS ML Associate / k8s CKA** certs and finishing a BSc i
 
 </td>
 <td width="40%" valign="top" align="center">
+
+<h3>&nbsp;</h3>
 
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" />
 
