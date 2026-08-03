@@ -1,53 +1,67 @@
-<h2> Hey there! I'm Tiran <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="30px"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="460" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Tiran+%F0%9F%91%8B;DevOps+Engineer+@+Velaris;AWS+%7C+ECS+%7C+Cost+Optimization;Automating+chaos+into+CloudFormation&font=Fira+Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&size=22">
+</h1>
 
-<h3>👨🏻‍💻 About Me</h3>
-<p>A DevOps trainee who’s living proof that chaos can be organized with the right tools.</p> <br>
+<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380" />
 
+### 👨‍💻 About Me
 
+DevOps Engineer intern at **Velaris**, running a multi-tenant AWS platform across dev/staging/prod.
+Currently deep in **ECS capacity provider redesigns, cost optimization, and observability pipelines**.
+Also studying for the **AWS ML Engineer Associate** cert, and finishing a BSc in Computer Science.
+
+- 🔭 Currently building: additive CloudFormation capacity provider overhauls across ECS clusters
+- 💸 Recently shipped: cost-attribution tooling that surfaced 4-figure/month savings in Fargate + RDS
+- 🌱 Learning: ML on AWS, deeper KEDA/EKS autoscaling patterns
+- ⚡ Fun fact: I've debugged more `SelectionCriteria` and `FilterPattern` CloudFormation errors than I'd like to admit
+
+<br clear="right"/>
+
+---
 
 ### 🛠️ Tools & Technologies
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS logo" />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="DigitalOcean logo" />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud logo" />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform logo" />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins logo" />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx logo" />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="Vagrant logo" />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ logo" />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-</div> <br> <br> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="42" alt="AWS" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="42" alt="Kubernetes" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42" alt="Bash" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" height="42" alt="GitHub Actions" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="42" alt="Kotlin" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="MongoDB" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" />
+</div>
 
-
+---
 
 ### 📊 GitHub Stats
 
-[![Tiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiraWeb&show_icons=true&theme=nord&hide_border=true&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TiraWeb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiraWeb&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiraWeb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
 ### 📬 Connect With Me
+
 <div align="center">
   <a href="mailto:tiranpankaja@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
@@ -62,8 +76,6 @@
 
 ---
 
-
-### 💡 Final Note
 <p align="center">
-  Listen, I may not be a GitHub superstar, but my local/AWS projects are where the magic really happens. Contact me on LinkedIn and see for yourself :D
+  <i>Not chasing green squares — my local + AWS console history tells the real story. Hit me up on LinkedIn!</i>
 </p>
